@@ -8,6 +8,9 @@ A professional Portfolio application demonstrating my abilities and current work
 
 #### [Visit the Portfolio here](https://sandrarmarquez.herokuapp.com/)
 
+#### [See the Portfolio here](https://youtu.be/IvMv_quGdeY)
+
+
 
 
 #### NPM Packages Used
